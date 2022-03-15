@@ -38,7 +38,7 @@ def trans(html):
     return html
 
 def main():
-    url = 'https://m.sinodan.link/view/715121.html'
+    url = 'https://m.sinodan.link/view/715125_2.html'
 
     html = get_one_page(url)
 
